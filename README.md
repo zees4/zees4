@@ -1,9 +1,8 @@
-# Halo semua! 
+# Hi There,  
+- I am a final year student in the field of industrial engineering with a focus on operational research, especially those related to data science, machine learning and so on
 
-Perkenalkan nama saya **Mohamad Ewo Muliyono Zees**.
+- Currently, researching a topic related to the implementation of AutoGluon, (one of the Automated Machine Learning technologies) in solving problems related to employee attrition
 
-Saya seorang **Siswa** di [Dicoding](https://www.dicoding.com/).
+- Actively to learn things related to fundamental data analytics and fundamental machine learning 
 
-Saya seorang mahasiswa teknik industri di salah satu universitas di Jogjakarta sejak 2019.
-
-Saya memiliki sertifikasi machine learning untuk pemula di [Dicoding](https://www.dicoding.com/certificates/GRX5GRWW2X0M).  
+Please find me on [LinkedIn](https://www.linkedin.com/in/mohamad-ewo-muliyono-zees-772275222/) for more details about my experience, education, and certification.
