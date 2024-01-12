@@ -1,5 +1,5 @@
 # Hi There,  
-- I am a final year student in the field of industrial engineering with a focus on operational research, especially those related to data science, machine learning and so on
+- I am an industrial engineering fresh graduate with a focus on operational research, especially those related to data science, machine learning and so on
 
 - Currently, researching a topic related to the implementation of AutoGluon, (one of the Automated Machine Learning technologies) in solving problems related to employee attrition
 
